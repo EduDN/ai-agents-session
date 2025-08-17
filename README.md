@@ -4,12 +4,13 @@ En este repositorio encontrarás información sobre agentes de inteligencia arti
 
 ## Generación de tokens en Hugging face 🤗
 
-Generaremos un token en Hugging Face (HF) que nos permitirá realizar consultas a través de distintos modelos.
+Con la ayuda de un feature llamado **Serverless API** ,nos permitirá usar modelos directamente desde la nube de Hugging Face 🤗 solo con tu token, sin necesidad de instalar librerías, descargar pesos o desplegar entornos.
 Además, este token nos dará acceso a funcionalidades adicionales como:
 
-Descargar modelos privados o con licencia restringida.
-Subir y gestionar nuestros propios modelos y datasets en el Hub.
+* Descargar modelos privados o con licencia restringida.
+* Subir y gestionar nuestros propios modelos y datasets en el Hub.
 
+### Instrucciones 
 * Entraremos a [Hugging Face](https://huggingface.co/)
 * Daremos permisos de lectura a nuestro token
 
